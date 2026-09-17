@@ -22,6 +22,7 @@ faq_data = {
     "Hello?": "Hi How can i help you some thing special.",
     "For what purpose you created for ?": "I am a FAQ chabot created for pre given question and their and speccificaly for IT queries.",
     "Give me the link of Linkddin of Ali Sultan?": " Here is the link of Ali Sultan Linkddin profile https://www.linkedin.com/in/ali-sultan-165a9b410/.",
+    "Ok?":"what know.",
 }
 
 questions = list(faq_data.keys())
