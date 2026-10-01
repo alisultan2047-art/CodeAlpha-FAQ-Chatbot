@@ -24,6 +24,7 @@ faq_data = {
     "Give me the link of Linkddin of Ali Sultan?": " Here is the link of Ali Sultan Linkddin profile https://www.linkedin.com/in/ali-sultan-165a9b410/.",
     "Ok?":"what know.",
     "what is api key":"It is special numerical value key 🗝️ uses to connect AI services of different company.",
+    "Thank you":"Your Welcome 🤗.",
 }
 
 questions = list(faq_data.keys())
