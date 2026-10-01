@@ -25,6 +25,7 @@ faq_data = {
     "Ok?":"what know.",
     "what is api key":"It is special numerical value key 🗝️ uses to connect AI services of different company.",
     "Thank you":"Your Welcome 🤗.",
+    "Why you have not enough answers of question":"Because I am Trained on Pre-Given Question ❓.",
 }
 
 questions = list(faq_data.keys())
